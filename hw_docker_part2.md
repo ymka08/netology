@@ -9,7 +9,8 @@
 
 Задача 4
 
-<img width="765" height="710" alt="image" src="https://github.com/user-attachments/assets/db7fa8ff-5e66-48da-b045-dc918d93fe2d" />
+<img width="756" height="603" alt="image" src="https://github.com/user-attachments/assets/f091cb3f-d89c-4d95-a278-2537c2bc8ac1" />
+
 
 <img width="1294" height="964" alt="image" src="https://github.com/user-attachments/assets/70262cba-58ad-4152-8ee7-3037f677d2fe" />
 
