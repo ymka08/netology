@@ -34,3 +34,15 @@ terraform apply -auto-approve  аналог комманды -y когда по�
 
 7.
 
+{
+  "version": 4,
+  "terraform_version": "1.12.2",
+  "serial": 11,
+  "lineage": "8053a7e6-8a21-3d74-bf9b-bb3a4c65f1c8",
+  "outputs": {},
+  "resources": [],
+  "check_results": null
+}
+
+8.
+  docker файл не был удален потому что мы использовали keep_locally = true в файле конфигруации
