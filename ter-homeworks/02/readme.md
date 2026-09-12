@@ -25,3 +25,8 @@
 Задание 5
 
 <img width="811" height="219" alt="image" src="https://github.com/user-attachments/assets/c90ab241-0e3b-44b3-a664-f93d5a1c5b28" />
+
+
+ Задание 6
+
+ <img width="1103" height="237" alt="image" src="https://github.com/user-attachments/assets/a901fc62-956f-46a7-a212-d129113f8550" />
