@@ -20,3 +20,15 @@ Checkov
 
 
 Задание 2
+
+
+<img width="1192" height="202" alt="image" src="https://github.com/user-attachments/assets/85546141-52ed-443f-b727-e555b61307a1" />
+
+<img width="1168" height="476" alt="image" src="https://github.com/user-attachments/assets/426378c2-5c0c-4419-b39d-6c48219adc32" />
+
+<img width="612" height="76" alt="image" src="https://github.com/user-attachments/assets/bc5ea7aa-9efb-460a-8f98-4e579fab56fa" />
+
+<img width="713" height="372" alt="image" src="https://github.com/user-attachments/assets/be1e7045-5205-4cb4-9c0e-435f743e5add" />
+
+<img width="1321" height="559" alt="image" src="https://github.com/user-attachments/assets/aaad96cb-7707-4f65-889d-4f83829592ed" />
+<img width="1880" height="247" alt="image" src="https://github.com/user-attachments/assets/38b03c89-9b49-42bf-ba96-da99678f1817" />
