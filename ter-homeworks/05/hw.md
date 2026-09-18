@@ -34,3 +34,18 @@ Checkov
 <img width="1880" height="247" alt="image" src="https://github.com/user-attachments/assets/38b03c89-9b49-42bf-ba96-da99678f1817" />
 <img width="1669" height="409" alt="image" src="https://github.com/user-attachments/assets/e2a39342-b3b5-49c3-b14b-b8e16d963a29" />
 
+
+Задание 3
+
+<img width="772" height="69" alt="image" src="https://github.com/user-attachments/assets/8b21fb74-62c7-4f2d-a33e-ff3ac37dce6d" />
+<img width="1606" height="488" alt="image" src="https://github.com/user-attachments/assets/3f6d2ff2-4eed-45ee-93a7-c41129cb648f" />
+
+с PR ничего не вышло, не получилось создать ветку - GH дает для бесплатного акканута создать только две ветки и обе уже есть
+мое мнение что github придумал сатана, за грехи наши. 4 часа трачу на задание и 2 на борьбу с этим адским отродьем. 
+
+Задание 4
+
+<img width="854" height="166" alt="image" src="https://github.com/user-attachments/assets/91a6bc4b-72a1-472d-8d78-5e8bf02dd23a" />
+
+
+
